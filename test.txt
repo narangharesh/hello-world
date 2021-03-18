@@ -4,9 +4,6 @@ second commit on 13:37
 
 further changes are doing
 
-
-Done changes -- pranjali
-
 Done changes -- pranjali 12/02/2021 02:17 PM
 
 Today is 4th March 2021 and i have commited to GIT
@@ -16,4 +13,6 @@ GIT IS VERY USEFULL TO TRACK AND KEEP RECORD OF CHANGES
 
 NEED TO BE USED IN PROGRAMMING
 
-Not merged
+Learning Sub branch on 18th March2021
+
+please merge in master
