@@ -20,3 +20,5 @@ please merge in master
 Further testing
 
 Creating stash 
+
+Further changes done
